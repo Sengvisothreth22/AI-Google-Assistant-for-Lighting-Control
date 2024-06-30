@@ -8,4 +8,8 @@ This project allows you to control your lighting system using Google Assistant a
 - **AI Integration**: Incorporates AI to provide intelligent lighting recommendations based on your preferences and habits.
 - **Smart Home Integration**: Compatible with various smart home devices and platforms.
 
+#Contact
+
+For any inquiries or suggestions, please contact me: Sengvisoth Reth (Mike) : Visothtech@gmail.com
+
 
